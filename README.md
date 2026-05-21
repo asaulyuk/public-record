@@ -27,6 +27,4 @@ This repository exists to make primary documents publicly accessible for verific
 ## Contact
 
 Marko Asaulyuk  
-masaulyuk@sfsu.edu  
-or  
-marko.asaulyuk@gmail.com
+259998993+asaulyuk@users.noreply.github.com
